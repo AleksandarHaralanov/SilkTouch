@@ -1,0 +1,15 @@
+plugins {
+    id 'java'
+}
+
+jar {
+    archiveBaseName = 'SilkTouch'
+}
+
+repositories {
+    mavenCentral()
+}
+
+dependencies {
+    implementation files("libs/poseidon.jar")
+}
