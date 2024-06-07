@@ -1,4 +1,5 @@
-name: SilkTouch
-version: 1.0
-author: Beezle
 main: me.beezle.silktouch.SilkTouch
+version: 1.0
+name: SilkTouch
+authors: [Beezle]
+description: Allows gold tools to break different blocks and collect them, which blocks you normally wouldn't be able to obtain.
